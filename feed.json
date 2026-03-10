@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jrcruciani.micro.blog/2026/03/10/los-nueve-juegos.html",
+				"title": "Los nueve juegos...",
+				"content_html": "<p>&hellip;que definieron mi infancia, de acuerdo al último trend de moda en redes =)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "...que definieron mi infancia, de acuerdo al último trend de moda en redes =)\n\n<img src=\"uploads/2026/image.png\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-10T08:47:31+00:00",
+				"url": "https://impermanente.es/2026/03/10/los-nueve-juegos.html"
+			},
+			{
 				"id": "http://jrcruciani.micro.blog/2026/03/04/una-sociedad-a-prueba-de.html",
 				"title": "Una sociedad a prueba de fuegos",
 				"content_html": "<p>Hace unos meses escribí sobre cómo <a href=\"https://impermanente.es/2025/10/29/la-mquina-no-est-rota.html\">el capitalismo no está roto</a>, sino que hace exactamente lo que sabe hacer (POSIWID). Y usé la metáfora del fuego: no decimos &ldquo;abolamos el fuego&rdquo;, decimos &ldquo;el fuego es muy útil pero también peligoros, diseñemos con eso en mente&rdquo;. Y así integramos políticas de prevención, detección, compartimentación y extinción.</p>\n<p>Pero me quedé corto. La metáfora del fuego es útil hasta que deja de serlo, y deja de serlo en un punto muy concreto: el fuego no hace lobby para que quiten los detectores de humo. El capital sí.</p>\n<p>Cada desregulación, cada privatización de un servicio esencial, cada recorte a la prensa independiente es un cortafuegos que se retira. Y con cada uno que desaparece, el incendio tiene más espacio para propagarse. No es un accidente. Es una estrategia. Piketty lo formalizó con una fórmula sencilla: cuando el retorno del capital supera el crecimiento económico, la concentración de riqueza no es una anomalía, es una consecuencia matemática. No es que el sistema funcione mal. Es que el fuego quema porque eso es lo que hace el fuego.</p>\n<p>Lo que Doctorow llama enshittification es este mismo patrón aplicado a las plataformas digitales: primero te atraen con valor real, luego te explotan, luego capturan el mercado y degradan el servicio. Pero Tim Wu ya había documentado que cada tecnología de comunicación (teléfono, radio, televisión) siguió exactamente el mismo ciclo: apertura, innovación, consolidación, monopolio, cierre. El fuego siempre termina quemando los extintores.</p>\n<p>Y luego está el mecanismo más sutil de todos. Byung-Chul Han diría que ya ni siquiera necesitas desmantelar los detectores desde fuera. Conviertes a cada persona en su propia empresa y entonces cada individuo se autoexplota. El fuego ya no quema la casa desde fuera: convence a los habitantes de que prendan fuego ellos mismos como ejercicio de &ldquo;crecimiento personal&rdquo;. La autoexplotación es el incendio que no activa ninguna alarma porque el que arde está convencido de que es su decisión.</p>\n<p>Entonces, ¿cómo diseñas una arquitectura que resista los intentos del propio fuego de desmantelarla?</p>\n<p>Donella Meadows hablaba de <em>leverage points</em>: los puntos donde una intervención pequeña genera un cambio grande en un sistema. Y decía algo crucial: los puntos más poderosos no son los parámetros (las tasas de impuestos, las regulaciones específicas) sino las reglas del juego. Y más arriba aún, el poder de cambiar las reglas del juego. Si el capital puede cambiar las reglas, ninguna regulación específica es segura.</p>\n<p>La arquitectura resiliente no es un conjunto de leyes. Es un diseño donde el poder de cambiar las reglas está distribuido, no concentrado. Donde los cortafuegos están constitucionalizados, no sujetos a mayorías simples. Donde los detectores de humo son descentralizados y no se pueden comprar. La ética hacker, el software libre, el periodismo financiado por la comunidad, las redes descentralizadas son intentos de construir exactamente eso. Y donde los sistemas de extinción se activan solos, sin necesitar que alguien tome la decisión política de activarlos.</p>\n<p>La pregunta final no es filosófica. Es de ingeniería: ¿cómo construimos una sociedad a prueba de un fuego que activamente intenta quemar sus propias paredes?</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://jrcruciani.micro.blog/2026/01/12/la-calle.html",
 				"title": "La calle",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/60a010bc7c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/247238/2026/60a010bc7c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-12T02:36:55+00:00",
 				"url": "https://impermanente.es/2026/01/12/la-calle.html"
 			},
